@@ -1,0 +1,11 @@
+Package: sportsdata
+Type: Package
+Title: Imports and provided descriptive statistics on Lightning Data
+Version: 0.0.0.9000
+Author: Warren Hyson
+Maintainer: Warren C Hyson <warrenhyson@mail.usf.edu>s
+Description: For now the sportsdata package is useful for imorting Tampa Bay Lightning Stats directly into your workspace. It also has a neat 
+function for scraping web functions. In the future this package will expand to include data and analytic techniques for all major sports
+License: CCO
+Encoding: UTF-8
+LazyData: true
